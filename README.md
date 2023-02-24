@@ -5,7 +5,9 @@ A small application that lets you manage your contacts. Built using React-Js.
 # Functionalities of the App -
 
 Uses React JS to render components using REST API.
+
 Enables the user to add, edit, view and delete contacts.
+
 Uses fake JSON placeholder to fetch the data.
 
 # Getting Started with Create React App
